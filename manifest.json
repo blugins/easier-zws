@@ -1,0 +1,10 @@
+{
+  "name": "Easier ZWS",
+  "version": "1.0.0",
+  "description": "Adds a command that replaces \"zws\" with a Zero Width Space character.",
+  "author": "botato",
+  "authorId": "440990343899643943",
+  "icon": "assets/icon.png",
+  "color": "#35117c",
+  "license": "MIT"
+}
